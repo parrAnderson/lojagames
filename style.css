@@ -1,0 +1,98 @@
+
+    #logo{text-align: left;float:left; padding: 2%;margin: 5 0 5 0% }
+      
+      .image-responvive {
+            max-width: 100%;
+        }
+#login {padding: 1%; margin:1%; float:right; color: red; }
+
+
+#nav {padding: 0%; margin:0%; color: white;}
+
+
+.banners {padding:2%; margin:0%; text-align: center}
+        .grid {
+            padding-top: 10px;
+        }
+
+        .header {
+            padding: 20px 0;
+        }
+
+        .product-item {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .cart {
+            text-align: right;
+        }
+
+        .user-actions {
+            padding: 10px 0;
+            text-align: right;
+        }
+
+        .search {text-align:center; float:center;
+            margin:2px; padding: 2px;
+
+            text-align: center
+        }
+
+        .product-item .info {
+            padding: 10px 0 0;
+            line-height: 1.4;
+        }
+
+        .product-item .info > strong {
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        footer {
+            padding: 40px 0;
+        }
+
+        .newsletter {
+            background: #7b7a7a;
+            padding: 20px;
+        }
+
+        .newsletter .title {
+            font-size: 20px;
+            color: #fff;
+            line-height: 1.4;
+        }
+
+        .newsletter form {
+            max-width: 500px;
+        }
+
+        .social .list-inline {
+            margin: 13px 0 0;
+        }
+
+        .social {
+            text-align: center;
+        }
+
+        .social-icon {
+            display: block;
+            width: 32px;
+            height: 32px;
+            line-height: 32px;
+            font-size: 17px;
+            background: #7b7a7a;
+            text-align: center;
+            color: #fff;
+            border-radius: 6px;
+        }
+
+        .social-icon:hover {
+            color: #fff;
+            background: #656565;
+        }
+
+        .copyright p{
+            margin-top: 20px;
+        }
